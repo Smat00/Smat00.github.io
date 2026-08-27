@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" role="img" aria-labelledby="title desc">
+<title id="title">Technology dashboard illustration</title><desc id="desc">Original abstract illustration with data charts, code windows and AI network nodes.</desc>
+<defs>
+  <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102b4c"/><stop offset="1" stop-color="#0c1c31"/></linearGradient>
+  <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#65e6c4"/><stop offset="1" stop-color="#78a8ff"/></linearGradient>
+  <filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".28"/></filter>
+</defs>
+<rect x="70" y="60" width="620" height="500" rx="38" fill="url(#g1)" stroke="#284969" filter="url(#s)"/>
+<rect x="108" y="100" width="544" height="54" rx="17" fill="#132f4f"/>
+<circle cx="137" cy="127" r="6" fill="#65e6c4"/><circle cx="157" cy="127" r="6" fill="#78a8ff"/><circle cx="177" cy="127" r="6" fill="#b991ff"/>
+<rect x="108" y="184" width="300" height="190" rx="22" fill="#0a1d33" stroke="#23415e"/>
+<path d="M138 332 L184 290 L230 307 L284 246 L335 268 L378 220" fill="none" stroke="url(#g2)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#65e6c4"><circle cx="138" cy="332" r="7"/><circle cx="184" cy="290" r="7"/><circle cx="230" cy="307" r="7"/><circle cx="284" cy="246" r="7"/><circle cx="335" cy="268" r="7"/><circle cx="378" cy="220" r="7"/></g>
+<rect x="436" y="184" width="216" height="190" rx="22" fill="#0a1d33" stroke="#23415e"/>
+<circle cx="544" cy="279" r="58" fill="none" stroke="#183b58" stroke-width="18"/>
+<path d="M544 221 A58 58 0 0 1 600 291" fill="none" stroke="#65e6c4" stroke-width="18" stroke-linecap="round"/>
+<circle cx="544" cy="279" r="18" fill="#78a8ff"/>
+<rect x="108" y="403" width="544" height="117" rx="22" fill="#0a1d33" stroke="#23415e"/>
+<g stroke="#78a8ff" stroke-width="5" stroke-linecap="round"><path d="M140 438h70"/><path d="M140 460h118"/><path d="M140 482h90"/></g>
+<g stroke="#65e6c4" stroke-width="5" stroke-linecap="round"><path d="M295 438h62"/><path d="M295 460h96"/><path d="M295 482h74"/></g>
+<g fill="#b991ff"><circle cx="500" cy="452" r="8"/><circle cx="548" cy="432" r="8"/><circle cx="582" cy="475" r="8"/><circle cx="620" cy="445" r="8"/></g>
+<g stroke="#b991ff" stroke-width="3" opacity=".8"><path d="M500 452l48-20 34 43 38-30"/><path d="M548 432l72 13"/></g>
+</svg>
